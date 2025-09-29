@@ -1,0 +1,11 @@
+README.md
+setup.py
+mcp_example_resources/__init__.py
+mcp_example_resources/base.py
+mcp_example_resources/privateresourceexample.py
+mcp_example_resources/publichttpresource.py
+mcp_example_resources.egg-info/PKG-INFO
+mcp_example_resources.egg-info/SOURCES.txt
+mcp_example_resources.egg-info/dependency_links.txt
+mcp_example_resources.egg-info/requires.txt
+mcp_example_resources.egg-info/top_level.txt
